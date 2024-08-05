@@ -1,12 +1,9 @@
 <div style="position: relative; width: 100%; text-align: center; color: white;">
   <img src="assets/banner2.gif" alt="Banner" style="width: 100%; border-radius: 10px;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="assets/profile_picture.png" alt="Santiago Echeverri" width="150" style="border-radius: 50%;"/>
-    <p align="center" style="color: white;">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I’m+Santiago+Echeverri.;Full-Stack+Software+Engineer+with+20+Years+of+Experience.;Expanding+Skills+in+Machine+Learning;Open+to+Project+Leadership+Roles.;Passionate+About+Tech+for+People,+Animals,+and+Nature.;Let’s+Connect+and+Collaborate!&font=Fira%20Code&center=true&width=800&height=100&duration=4000&pause=1000" alt="Typing SVG">
-    </p>
-  </div>
 </div>
+<p align="center" style="color: white; margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I’m+Santiago+Echeverri.;Full-Stack+Software+Engineer+with+20+Years+of+Experience.;Expanding+Skills+in+Machine+Learning;Open+to+Project+Leadership+Roles.;Passionate+About+Tech+for+People,+Animals,+and+Nature.;Let’s+Connect+and+Collaborate!&font=Fira%20Code&center=true&width=800&height=100&duration=4000&pause=1000" alt="Typing SVG">
+</p>
 
 * [Stats](#stats)
 * [Services](#services)
@@ -31,9 +28,9 @@
 <p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://github-readme-stats.vercel.app/api?username=dassantoss&show_icons=true&include_all_commits=true&theme=radical&title_color=00ff00" alt="GitHub Stats" width="80%">
 </p>
-<p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+<!-- <p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dassantoss&theme=github_dark" alt="Productive Time" width="80%">
-</p>
+</p> -->
 <p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassantoss&layout=compact&theme=radical&title_color=00ff00" alt="Top Langs" width="80%">
 </p>
@@ -95,11 +92,11 @@
 
 | Project Name        | Description                                                                                       |
 |---------------------|---------------------------------------------------------------------------------------------------|
-| [<img src="assets/rn-right-now.png" alt="RN Right Now" width="50" align="center"> RN Right Now](https://www.rn-rightnow.com/) | A medical services mobile app developed for both iOS (Swift) and Android (Kotlin). Managed AWS deployments and maintained the backend using Laravel, MySQL, and JavaScript. [iOS](https://apps.apple.com/mx/app/rn-right-now/id6504877083) • [Android](https://play.google.com/store/apps/dev?id=6453835112671984503&hl=es_419) |
-| [<img src="assets/esperando-por-ti.png" alt="Esperando por ti" width="50" align="center"> Esperando por ti](https://www.esperandoporti.com/) | Social network to promote environmental protection and animal welfare. Developed the backend in PHP and Laravel, and the front-end for iOS in Swift and Android in Kotlin, using MySQL, JavaScript, and AWS. [iOS](https://apps.apple.com/mx/app/esperando-por-ti/id1500077249) • [Android](https://play.google.com/store/apps/details?id=mx.dacodes.esperandoporti&hl=es&gl=US) |
-| [<img src="assets/bemex.png" alt="Bemex" width="50" align="center"> Bemex](https://github.com/dassantoss/BeMex) | All-in-one platform for the naturalization process in Mexico, using Node.js and MySQL for the backend and React.js for the frontend, deployed on AWS. |
-| [<img src="assets/airbnb-clone.png" alt="Airbnb Clone" width="50" align="center"> Airbnb Clone](https://github.com/dassantoss/holbertonschool-AirBnB_clone_v4) | Simplified version of Airbnb with property listings, bookings, and user authentication, using Python, JavaScript, Flask, MySQL, JSON, and HTML/CSS. |
-| [<img src="assets/machine-learning.png" alt="Machine Learning Projects" width="50" align="center"> Machine Learning](https://github.com/dassantoss/holbertonschool-machine_learning) | Projects from Holberton School focused on various aspects of machine learning including neural networks, computer vision, and reinforcement learning. |
+| <a href="https://www.rn-rightnow.com/"><img src="assets/rn-right-now.png" alt="RN Right Now" width="50" align="center"> RN Right Now</a> | A medical services mobile app developed for both iOS (Swift) and Android (Kotlin). Managed AWS deployments and maintained the backend using Laravel, MySQL, and JavaScript. <a href="https://apps.apple.com/mx/app/rn-right-now/id6504877083">iOS</a> • <a href="https://play.google.com/store/apps/dev?id=6453835112671984503&hl=es_419">Android</a> |
+| <a href="https://www.esperandoporti.com/"><img src="assets/esperando-por-ti.png" alt="Esperando por ti" width="50" align="center"> Esperando por ti</a> | Social network to promote environmental protection and animal welfare. Developed the backend in PHP and Laravel, and the front-end for iOS in Swift and Android in Kotlin, using MySQL, JavaScript, and AWS. <a href="https://apps.apple.com/mx/app/esperando-por-ti/id1500077249">iOS</a> • <a href="https://play.google.com/store/apps/details?id=mx.dacodes.esperandoporti&hl=es&gl=US">Android</a> |
+| <a href="https://github.com/dassantoss/BeMex"><img src="assets/bemex.png" alt="Bemex" width="50" align="center"> Bemex</a> | All-in-one platform for the naturalization process in Mexico, using Node.js and MySQL for the backend and React.js for the frontend, deployed on AWS. |
+| <a href="https://github.com/dassantoss/holbertonschool-AirBnB_clone_v4"><img src="assets/airbnb-clone.png" alt="Airbnb Clone" width="50" align="center"> Airbnb Clone</a> | Simplified version of Airbnb with property listings, bookings, and user authentication, using Python, JavaScript, Flask, MySQL, JSON, and HTML/CSS. |
+| <a href="https://github.com/dassantoss/holbertonschool-machine_learning"><img src="assets/machine-learning.png" alt="Machine Learning Projects" width="50" align="center"> Machine Learning</a> | Projects from Holberton School focused on various aspects of machine learning including neural networks, computer vision, and reinforcement learning. |
 
 ## 💼 Experience
 
@@ -131,7 +128,8 @@
   <a href="https://www.instagram.com/santiagoecheverril/" rel="me"><img src="assets/instagram.png" alt="Instagram" width="50"></a>
 </p>
 
-## 💖 Contribute to Our Cause
+
+## 🐾 🌱 ♻️ Contribute to Our Cause
 <div align="center">
   <a href="https://www.esperandoporti.com/" target="_blank">
     <img src="assets/esperando-por-ti-logo.png" alt="Esperando por ti" width="300" style="margin-bottom: 10px;">
