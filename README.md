@@ -77,26 +77,26 @@
 
 ## 🚀 Services
 
-| Service               | Description                                           |
-|-----------------------|-------------------------------------------------------|
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Android%20Development"><img src="assets/android.png" alt="Android" width="50" align="center"> Android Development </a>  | Custom Android app development services tailored to your needs. |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20iOS%20Development"><img src="assets/ios.png" alt="iOS" width="50" align="center"> iOS Development </a>      | Expert iOS app development using Swift and Kotlin.    |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20SaaS%20Development"><img src="assets/saas.png" alt="SaaS" width="50" align="center"> SaaS Development </a>       | Scalable SaaS solutions for your business.            |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Cloud%20Applications"><img src="assets/cloud.png" alt="Cloud" width="50" align="center"> Cloud Applications </a>   | Development and deployment of cloud-based applications. |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Web%20Development"><img src="assets/web.png" alt="Web" width="50" align="center"> Web Development </a>      | Full-stack web development services.                  |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20AI%20Solutions"><img src="assets/ai.png" alt="AI" width="50" align="center"> AI Solutions </a>         | Integrating AI into your business processes.          |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Database%20Development"><img src="assets/database.png" alt="Database" width="50" align="center"> Database Development </a>  | Robust database solutions and management.             |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Information%20Security"><img src="assets/security.png" alt="Security" width="50" align="center"> Information Security </a>  | Comprehensive security solutions for your applications.|
+|      | Service               | Description                                           |
+|------|-----------------------|-------------------------------------------------------|
+| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Android%20Development"><img src="assets/android.png" alt="Android" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Android%20Development"> Android Development </a>  | Custom Android app development services tailored to your needs. |
+| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20iOS%20Development"><img src="assets/ios.png" alt="iOS" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20iOS%20Development"> iOS Development </a>      | Expert iOS app development using Swift and Kotlin.    |
+| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20SaaS%20Development"><img src="assets/saas.png" alt="SaaS" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20SaaS%20Development"> SaaS Development </a>       | Scalable SaaS solutions for your business.            |
+| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Cloud%20Applications"><img src="assets/cloud.png" alt="Cloud" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Cloud%20Applications"> Cloud Applications </a>   | Development and deployment of cloud-based applications. |
+| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Web%20Development"><img src="assets/web.png" alt="Web" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Web%20Development"> Web Development </a>      | Full-stack web development services.                  |
+| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20AI%20Solutions"><img src="assets/ai.png" alt="AI" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20AI%20Solutions"> AI Solutions </a>         | Integrating AI into your business processes.          |
+| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Database%20Development"><img src="assets/database.png" alt="Database" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Database%20Development"> Database Development </a>  | Robust database solutions and management.             |
+| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Information%20Security"><img src="assets/security.png" alt="Security" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Information%20Security"> Information Security </a>  | Comprehensive security solutions for your applications.|
 
 ## 🏆 Recent Projects
 
-| Project Name        | Description                                                                                       |
-|---------------------|---------------------------------------------------------------------------------------------------|
-| <a href="https://www.rn-rightnow.com/"><img src="assets/rn-right-now.png" alt="RN Right Now" width="50" align="center"> RN Right Now</a> | A medical services mobile app developed for both iOS (Swift) and Android (Kotlin). Managed AWS deployments and maintained the backend using Laravel, MySQL, and JavaScript. <a href="https://apps.apple.com/mx/app/rn-right-now/id6504877083">iOS</a> • <a href="https://play.google.com/store/apps/dev?id=6453835112671984503&hl=es_419">Android</a> |
-| <a href="https://www.esperandoporti.com/"><img src="assets/esperando-por-ti.png" alt="Esperando por ti" width="50" align="center"> Esperando por ti</a> | Social network to promote environmental protection and animal welfare. Developed the backend in PHP and Laravel, and the front-end for iOS in Swift and Android in Kotlin, using MySQL, JavaScript, and AWS. <a href="https://apps.apple.com/mx/app/esperando-por-ti/id1500077249">iOS</a> • <a href="https://play.google.com/store/apps/details?id=mx.dacodes.esperandoporti&hl=es&gl=US">Android</a> |
-| <a href="https://github.com/dassantoss/BeMex"><img src="assets/bemex.png" alt="Bemex" width="50" align="center"> Bemex</a> | All-in-one platform for the naturalization process in Mexico, using Node.js and MySQL for the backend and React.js for the frontend, deployed on AWS. |
-| <a href="https://github.com/dassantoss/holbertonschool-AirBnB_clone_v4"><img src="assets/airbnb-clone.png" alt="Airbnb Clone" width="50" align="center"> Airbnb Clone</a> | Simplified version of Airbnb with property listings, bookings, and user authentication, using Python, JavaScript, Flask, MySQL, JSON, and HTML/CSS. |
-| <a href="https://github.com/dassantoss/holbertonschool-machine_learning"><img src="assets/machine-learning.png" alt="Machine Learning Projects" width="50" align="center"> Machine Learning</a> | Projects from Holberton School focused on various aspects of machine learning including neural networks, computer vision, and reinforcement learning. |
+|      | Project Name        | Description                                                                                       |
+|------|---------------------|---------------------------------------------------------------------------------------------------|
+| <a href="https://www.rn-rightnow.com/"><img src="assets/rn-right-now.png" alt="RN RightNow" width="50" align="center"></a> | <a href="https://www.rn-rightnow.com/"> RN Right Now</a> | A medical services mobile app developed for both iOS (Swift) and Android (Kotlin). Managed AWS deployments and maintained the backend using Laravel, MySQL, and JavaScript. <a href="https://apps.apple.com/mx/app/rn-right-now/id6504877083">iOS</a> • <a href="https://play.google.com/store/apps/dev?id=6453835112671984503&hl=es_419">Android</a> |
+| <a href="https://www.esperandoporti.com/"><img src="assets/esperando-por-ti.png" alt="Esperando por ti" width="50" align="center"></a> | <a href="https://www.esperandoporti.com/"> Esperando por ti</a> | Social network to promote environmental protection and animal welfare. Developed the backend in PHP and Laravel, and the front-end for iOS in Swift and Android in Kotlin, using MySQL, JavaScript, and AWS. <a href="https://apps.apple.com/mx/app/esperando-por-ti/id1500077249">iOS</a> • <a href="https://play.google.com/store/apps/details?id=mx.dacodes.esperandoporti&hl=es&gl=US">Android</a> |
+| <a href="https://github.com/dassantoss/BeMex"><img src="assets/bemex.png" alt="Bemex" width="50" align="center"></a> | <a href="https://github.com/dassantoss/BeMex"> Bemex</a> | All-in-one platform for the naturalization process in Mexico, using Node.js and MySQL for the backend and React.js for the frontend, deployed on AWS. |
+| <a href="https://github.com/dassantoss/holbertonschool-AirBnB_clone_v4"><img src="assets/airbnb-clone.png" alt="Airbnb Clone" width="50" align="center"></a> | <a href="https://github.com/dassantoss/holbertonschool-AirBnB_clone_v4"> Airbnb Clone</a> | Simplified version of Airbnb with property listings, bookings, and user authentication, using Python, JavaScript, Flask, MySQL, JSON, and HTML/CSS. |
+| <a href="https://github.com/dassantoss/holbertonschool-machine_learning"><img src="assets/machine-learning.png" alt="Machine Learning Projects" width="50" align="center"></a> | <a href="https://github.com/dassantoss/holbertonschool-machine_learning"> Machine Learning</a> | Projects from Holberton School focused on various aspects of machine learning including neural networks, computer vision, and reinforcement learning. |
 
 ## 💼 Experience
 
@@ -112,7 +112,7 @@
 
 - Software Engineering with a specialization in Machine Learning @ Universidad Anahuac del Mayab
 - Machine Learning @ Holberton School
-- Machine Learning @ Holberton School
+- Foundations of Computer Science @ Holberton School
 - Technical in Software Development @ CESDE
 - Systems Engineering @ Universidad de Medellín
 
@@ -127,7 +127,6 @@
   <a href="https://www.facebook.com/da.ssantoss/" rel="me"><img src="assets/facebook.png" alt="Facebook" width="50"></a>
   <a href="https://www.instagram.com/santiagoecheverril/" rel="me"><img src="assets/instagram.png" alt="Instagram" width="50"></a>
 </p>
-
 
 ## 🐾 🌱 ♻️ Contribute to Our Cause
 <div align="center">
