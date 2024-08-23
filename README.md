@@ -124,7 +124,7 @@
   <a href="mailto:santiago.echeverri@devarea.mx" rel="me"><img src="assets/mail.png" alt="Mail" width="50"></a>
   <a href="https://t.me/+529999492450" rel="me"><img src="assets/telegram.png" alt="Telegram" width="50"></a>
   <a href="https://wa.me/529999492450?text=Hi" rel="me"><img src="assets/whatsapp.png" alt="WhatsApp" width="50"></a>
-  <a href="https://linkedin.com/in/santye" rel="me"><img src="assets/linkedin.png" alt="LinkedIn" width="50"></a>
+  <a href="https://linkedin.com/in/santiagoecheverril" rel="me"><img src="assets/linkedin.png" alt="LinkedIn" width="50"></a>
   <a href="https://x.com/da_ssantoss" rel="me"><img src="assets/twitter.png" alt="Twitter" width="50"></a>
   <a href="https://www.facebook.com/da.ssantoss/" rel="me"><img src="assets/facebook.png" alt="Facebook" width="50"></a>
   <a href="https://www.instagram.com/santiagoecheverril/" rel="me"><img src="assets/instagram.png" alt="Instagram" width="50"></a>
