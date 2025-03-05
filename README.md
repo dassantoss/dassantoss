@@ -53,37 +53,6 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
   <img src="https://github-profile-trophy.vercel.app/?username=dassantoss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 🏆 Industry Expertise
-
-<div align="center" style="margin-top: 20px; margin-bottom: 40px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <div style="background: linear-gradient(135deg, #1E88E5 0%, #1565C0 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
-      <img src="assets/healthtech.png" width="70" height="70" style="margin-bottom: 15px;">
-      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">HealthTech</h3>
-      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Healthcare platforms & telemedicine solutions</p>
-    </div>
-    <div style="background: linear-gradient(135deg, #43A047 0%, #2E7D32 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
-      <img src="assets/fintech.png" width="70" height="70" style="margin-bottom: 15px;">
-      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">FinTech</h3>
-      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Payment solutions & financial platforms</p>
-    </div>
-    <div style="background: linear-gradient(135deg, #7B1FA2 0%, #6A1B9A 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
-      <img src="assets/govtech.png" width="70" height="70" style="margin-bottom: 15px;">
-      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">GovTech</h3>
-      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Government services & digital citizenship</p>
-    </div>
-    <div style="background: linear-gradient(135deg, #E53935 0%, #C62828 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
-      <img src="assets/saas.png" width="70" height="70" style="margin-bottom: 15px;">
-      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">SaaS</h3>
-      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Enterprise & B2B cloud solutions</p>
-    </div>
-    <div style="background: linear-gradient(135deg, #00897B 0%, #00695C 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
-      <img src="assets/sustainability.png" width="70" height="70" style="margin-bottom: 15px;">
-      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">Sustainability</h3>
-      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Environmental & animal welfare technology</p>
-    </div>
-  </div>
-</div>
 
 ## 🚀 Services
 
@@ -380,6 +349,48 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
     <td>WIN Software SAS</td>
     <td>Healthcare Technology</td>
     <td>2008-2010</td>
+  </tr>
+</table>
+
+## 🏆 Industry Expertise
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="19%" style="padding:5px">
+      <div style="background: linear-gradient(135deg, #1E88E5 0%, #1565C0 100%); border-radius: 8px; padding: 10px; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+        <img src="assets/healthtech.png" width="40" height="40" style="margin-bottom: 8px;">
+        <h3 style="margin: 0; font-size: 16px; color: white; font-weight: 600;">HealthTech</h3>
+        <p style="margin: 3px 0 0; font-size: 11px; color: rgba(255,255,255,0.9); text-align: center;">Healthcare platforms & telemedicine</p>
+      </div>
+    </td>
+    <td align="center" width="19%" style="padding:5px">
+      <div style="background: linear-gradient(135deg, #43A047 0%, #2E7D32 100%); border-radius: 8px; padding: 10px; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+        <img src="assets/fintech.png" width="40" height="40" style="margin-bottom: 8px;">
+        <h3 style="margin: 0; font-size: 16px; color: white; font-weight: 600;">FinTech</h3>
+        <p style="margin: 3px 0 0; font-size: 11px; color: rgba(255,255,255,0.9); text-align: center;">Payment & financial solutions</p>
+      </div>
+    </td>
+    <td align="center" width="19%" style="padding:5px">
+      <div style="background: linear-gradient(135deg, #7B1FA2 0%, #6A1B9A 100%); border-radius: 8px; padding: 10px; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+        <img src="assets/govtech.png" width="40" height="40" style="margin-bottom: 8px;">
+        <h3 style="margin: 0; font-size: 16px; color: white; font-weight: 600;">GovTech</h3>
+        <p style="margin: 3px 0 0; font-size: 11px; color: rgba(255,255,255,0.9); text-align: center;">Government & digital citizenship</p>
+      </div>
+    </td>
+    <td align="center" width="19%" style="padding:5px">
+      <div style="background: linear-gradient(135deg, #E53935 0%, #C62828 100%); border-radius: 8px; padding: 10px; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+        <img src="assets/saas.png" width="40" height="40" style="margin-bottom: 8px;">
+        <h3 style="margin: 0; font-size: 16px; color: white; font-weight: 600;">SaaS</h3>
+        <p style="margin: 3px 0 0; font-size: 11px; color: rgba(255,255,255,0.9); text-align: center;">Enterprise & B2B cloud solutions</p>
+      </div>
+    </td>
+    <td align="center" width="19%" style="padding:5px">
+      <div style="background: linear-gradient(135deg, #00897B 0%, #00695C 100%); border-radius: 8px; padding: 10px; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+        <img src="assets/sustainability.png" width="40" height="40" style="margin-bottom: 8px;">
+        <h3 style="margin: 0; font-size: 16px; color: white; font-weight: 600;">Sustainability</h3>
+        <p style="margin: 3px 0 0; font-size: 11px; color: rgba(255,255,255,0.9); text-align: center;">Environmental & animal welfare</p>
+      </div>
+    </td>
   </tr>
 </table>
 
