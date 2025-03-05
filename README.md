@@ -305,14 +305,6 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassantoss&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <a href="https://github.com/dassantoss">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dassantoss&theme=radical&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" alt="GitHub Streak" />
-  </a>
-</div>
-
 ## 📈 GitHub Activity
 
 <div align="center">
