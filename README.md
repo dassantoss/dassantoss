@@ -1,158 +1,487 @@
-<div style="position: relative; width: 100%; text-align: center; color: white;">
-  <img src="assets/banner2.gif" alt="Banner" style="width: 100%; border-radius: 10px;">
+<div align="center">
+  <img src="assets/banner2.gif" alt="Santiago Echeverri | Lead Full-Stack Engineer" style="width: 100%; border-radius: 10px;">
+  
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Santiago+Echeverri+Londo%C3%B1o+(He%2FHim);Full-Stack+Engineer+%7C+AI+%26+ML+%7C+Project+Management;20%2B+years+of+software+development+experience;Innovating+for+people%2C+animals%2C+and+nature" alt="Santiago Echeverri | Lead Full-Stack Engineer" /></a>
+  </div>
+
+  <div align="center">
+    <a href="https://linkedin.com/in/santiagoecheverril">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:santiago@devarea.mx">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://wa.me/529999492450">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://www.esperandoporti.com/">
+      <img src="https://img.shields.io/badge/EPT-00C7B7?style=for-the-badge&logoColor=white" alt="Esperando por Ti" />
+    </a>
+    <a href="https://www.rn-rightnow.com/">
+      <img src="https://img.shields.io/badge/RN_RightNow-FF6B6B?style=for-the-badge&logoColor=white" alt="RN Right Now" />
+    </a>
+    <div align="center">
+      <a href="https://drive.google.com/file/d/1zbtItMZYQqWbbOVWigrTHB1jX_B7P3xT/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+      </a>
+    </div>
+  </div>
+  
+  <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+    <h3>Visitor Count:</h3>
+    <img src="https://profile-counter.glitch.me/dassantoss/count.svg" alt="Visitor Count" style="width: 250px;" />
+  </div>
+  
+  <!-- Snake Animation -->
+  <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dassantoss/dassantoss/blob/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/dassantoss/dassantoss/blob/output/github-snake.svg" />
+      <img alt="github contribution grid snake animation" src="https://github.com/dassantoss/dassantoss/blob/output/github-snake.svg" />
+    </picture>
+  </div>
 </div>
-<p align="center" style="color: white; margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I’m+Santiago+Echeverri.;Lead+Full-Stack+Engineer+Specializing+in+AI+%26+ML.;Project+Management+Expert+with+20+Years+of+Experience.;Tech-Driven,+Nature-Inspired,+Health-Innovator.;Passionate+About+Tech+for+People,+Animals,+and+Nature.;Let’s+Connect+and+Collaborate!&font=Fira%20Code&center=true&width=800&height=100&duration=4000&pause=1000" alt="Typing SVG">
-</p>
 
-* [Stats](#stats)
-* [Services](#services)
-* [Recent Projects](#recent-projects)
-* [Experience](#experience)
-* [Education](#education)
-* [7 Ways to contact me](#7-ways-to-contact-me)
-* [Contribute to Our Cause](#contribute-to-our-cause)
-* [Resume](https://drive.google.com/file/d/1y6ZGFyAp1VPikP6OtS6OO2eqDcEoJaEc/view)
+## 📋 About Me
 
-## 📊 Stats
+Software Engineer with **20+ years** of experience in Full Stack development and technical leadership. Specialized in building scalable, innovative solutions that make a positive impact. Passionate about leveraging technology to solve real-world problems for people, animals, and the environment.
+
+Currently leading development at **RN Technologies LLC** and driving innovation with AI-powered solutions like **EPT Vision** for animal welfare.
 
 <div align="center">
-
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/dassantoss/count.svg)
+  <img src="https://github-profile-trophy.vercel.app/?username=dassantoss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-<p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dassantoss&theme=github_dark" alt="Profile Details" width="80%">
-</p>
-<p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-readme-stats.vercel.app/api?username=dassantoss&show_icons=true&include_all_commits=true&theme=radical&title_color=00ff00" alt="GitHub Stats" width="80%">
-</p>
-<!-- <p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dassantoss&theme=github_dark" alt="Productive Time" width="80%">
-</p> -->
-<p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassantoss&layout=compact&theme=radical&title_color=00ff00" alt="Top Langs" width="80%">
-</p>
-<p align="center" style="background-color:#2e2e2e; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dassantoss" alt="Skills Chart" width="80%">
-</p>
+## 🏆 Industry Expertise
 
-### 🛠 Technologies I Use  
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Visual_Basic.NET-7CBB00?style=for-the-badge&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-![](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=api&logoColor=white)
-![](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<div align="center" style="margin-top: 20px; margin-bottom: 40px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <div style="background: linear-gradient(135deg, #1E88E5 0%, #1565C0 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
+      <img src="assets/healthtech.png" width="70" height="70" style="margin-bottom: 15px;">
+      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">HealthTech</h3>
+      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Healthcare platforms & telemedicine solutions</p>
+    </div>
+    <div style="background: linear-gradient(135deg, #43A047 0%, #2E7D32 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
+      <img src="assets/fintech.png" width="70" height="70" style="margin-bottom: 15px;">
+      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">FinTech</h3>
+      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Payment solutions & financial platforms</p>
+    </div>
+    <div style="background: linear-gradient(135deg, #7B1FA2 0%, #6A1B9A 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
+      <img src="assets/govtech.png" width="70" height="70" style="margin-bottom: 15px;">
+      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">GovTech</h3>
+      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Government services & digital citizenship</p>
+    </div>
+    <div style="background: linear-gradient(135deg, #E53935 0%, #C62828 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
+      <img src="assets/saas.png" width="70" height="70" style="margin-bottom: 15px;">
+      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">SaaS</h3>
+      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Enterprise & B2B cloud solutions</p>
+    </div>
+    <div style="background: linear-gradient(135deg, #00897B 0%, #00695C 100%); border-radius: 12px; padding: 20px; width: 180px; height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
+      <img src="assets/sustainability.png" width="70" height="70" style="margin-bottom: 15px;">
+      <h3 style="margin: 0; font-size: 20px; color: white; font-weight: 600;">Sustainability</h3>
+      <p style="margin: 5px 0 0; font-size: 14px; color: rgba(255,255,255,0.9); text-align: center;">Environmental & animal welfare technology</p>
+    </div>
+  </div>
+</div>
 
 ## 🚀 Services
 
-|      | Service               | Description                                           |
-|------|-----------------------|-------------------------------------------------------|
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Android%20Development"><img src="assets/android.png" alt="Android" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Android%20Development"> Android Development </a>  | Custom Android app development services tailored to your needs. |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20iOS%20Development"><img src="assets/ios.png" alt="iOS" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20iOS%20Development"> iOS Development </a>      | Expert iOS app development using Swift and Kotlin.    |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20SaaS%20Development"><img src="assets/saas.png" alt="SaaS" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20SaaS%20Development"> SaaS Development </a>       | Scalable SaaS solutions for your business.            |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Cloud%20Applications"><img src="assets/cloud.png" alt="Cloud" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Cloud%20Applications"> Cloud Applications </a>   | Development and deployment of cloud-based applications. |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Web%20Development"><img src="assets/web.png" alt="Web" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Web%20Development"> Web Development </a>      | Full-stack web development services.                  |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20AI%20Solutions"><img src="assets/ai.png" alt="AI" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20AI%20Solutions"> AI Solutions </a>         | Integrating AI into your business processes.          |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Database%20Development"><img src="assets/database.png" alt="Database" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Database%20Development"> Database Development </a>  | Robust database solutions and management.             |
-| <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Information%20Security"><img src="assets/security.png" alt="Security" width="50" align="center"></a> | <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Information%20Security"> Information Security </a>  | Comprehensive security solutions for your applications.|
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20AI%20Solutions">
+        <img src="assets/aiml.png" alt="AI Solutions" width="60" height="60">
+        <br>
+        <strong>AI & ML Solutions</strong>
+      </a>
+      <br>
+      <p>Custom AI models, computer vision systems, NLP solutions, and ML-powered analytics with up to 94% accuracy.</p>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Mobile%20Development">
+        <img src="assets/apps.png" alt="Mobile Development" width="60" height="60">
+        <br>
+        <strong>Mobile Development</strong>
+      </a>
+      <br>
+      <p>Native iOS/Android apps and cross-platform solutions that deliver exceptional user experiences.</p>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Web%20Development">
+        <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" alt="Web Development" width="60" height="60">
+        <br>
+        <strong>Web Development</strong>
+      </a>
+      <br>
+      <p>Modern, responsive web applications built with React, Angular, Vue, Next.js, and Laravel.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20SaaS%20Development">
+        <img src="assets/saas.png" alt="SaaS Development" width="60" height="60">
+        <br>
+        <strong>SaaS Development</strong>
+      </a>
+      <br>
+      <p>Cloud-based subscription services with optimized architecture for scalability and performance.</p>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Database%20Development">
+        <img src="assets/sql.png" alt="Database Development" width="60" height="60">
+        <br>
+        <strong>Database Solutions</strong>
+      </a>
+      <br>
+      <p>High-performance database design, optimization, and migration for SQL and NoSQL systems.</p>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/529999492450?text=Hello,%20I%20would%20like%20more%20information%20about:%20Information%20Security">
+        <img src="assets/security.png" alt="Information Security" width="60" height="60">
+        <br>
+        <strong>Information Security</strong>
+      </a>
+      <br>
+      <p>End-to-end security audits, vulnerability assessments, and secure architecture implementation.</p>
+    </td>
+  </tr>
+</table>
 
-## 🏆 Recent Projects
+## 🚀 Featured Projects
 
-|      | Project Name        | Description                                                                                       |
-|------|---------------------|---------------------------------------------------------------------------------------------------|
-| <a href="https://www.rn-rightnow.com/"><img src="assets/rn-right-now.png" alt="RN RightNow" width="50" align="center"></a> | <a href="https://www.rn-rightnow.com/"> RN Right Now</a> | A medical services mobile app developed for both iOS (Swift) and Android (Kotlin). Managed AWS deployments and maintained the backend using Laravel, MySQL, and JavaScript. <a href="https://apps.apple.com/mx/app/rn-right-now/id6504877083">iOS</a> • <a href="https://play.google.com/store/apps/dev?id=6453835112671984503&hl=es_419">Android</a> |
-| <a href="https://www.esperandoporti.com/"><img src="assets/esperando-por-ti.png" alt="Esperando por ti" width="50" align="center"></a> | <a href="https://www.esperandoporti.com/"> Esperando por ti</a> | Social network to promote environmental protection and animal welfare. Developed the backend in PHP and Laravel, and the front-end for iOS in Swift and Android in Kotlin, using MySQL, JavaScript, and AWS. <a href="https://apps.apple.com/mx/app/esperando-por-ti/id1500077249">iOS</a> • <a href="https://play.google.com/store/apps/details?id=mx.dacodes.esperandoporti&hl=es&gl=US">Android</a> |
-| <a href="https://github.com/dassantoss/BeMex"><img src="assets/bemex.png" alt="Bemex" width="50" align="center"></a> | <a href="https://github.com/dassantoss/BeMex"> Bemex</a> | All-in-one platform for the naturalization process in Mexico, using Node.js and MySQL for the backend and React.js for the frontend, deployed on AWS. |
-| <a href="https://github.com/dassantoss/holbertonschool-AirBnB_clone_v4"><img src="assets/airbnb-clone.png" alt="Airbnb Clone" width="50" align="center"></a> | <a href="https://github.com/dassantoss/holbertonschool-AirBnB_clone_v4"> Airbnb Clone</a> | Simplified version of Airbnb with property listings, bookings, and user authentication, using Python, JavaScript, Flask, MySQL, JSON, and HTML/CSS. |
-| <a href="https://github.com/dassantoss/holbertonschool-machine_learning"><img src="assets/machine-learning.png" alt="Machine Learning Projects" width="50" align="center"></a> | <a href="https://github.com/dassantoss/holbertonschool-machine_learning"> Machine Learning</a> | Projects from Holberton School focused on various aspects of machine learning including neural networks, computer vision, and reinforcement learning. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">RN Right Now</h3>
+      <div align="center">
+        <a href="https://www.rn-rightnow.com/" target="_blank">
+          <img src="assets/rn-right-now.png" width="80" alt="RN Right Now"/>
+        </a>
+        <p><strong>Medical Services Platform</strong></p>
+        <p>Mobile app connecting patients with healthcare providers. Built with Swift (iOS), Kotlin (Android), Laravel, MySQL, and AWS.</p>
+        <div align="center">
+          <a href="https://apps.apple.com/mx/app/rn-right-now/id6504877083" target="_blank">
+            <img src="https://img.shields.io/badge/iOS-4630EB.svg?style=for-the-badge&logo=APPLE&labelColor=000&logoColor=fff" alt="iOS" />
+          </a>
+          <a href="https://play.google.com/store/apps/dev?id=6453835112671984503&hl=es_419" target="_blank">
+            <img src="https://img.shields.io/badge/Android-4630EB.svg?style=for-the-badge&logo=ANDROID&labelColor=000&logoColor=fff" alt="Android" />
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Esperando por Ti</h3>
+      <div align="center">
+        <a href="https://www.esperandoporti.com/" target="_blank">
+          <img src="assets/esperando-por-ti.png" width="80" alt="Esperando por Ti"/>
+        </a>
+        <p><strong>Environmental & Animal Welfare Platform</strong></p>
+        <p>Social network promoting environmental protection and animal welfare. Built with PHP (Laravel), Swift, Kotlin, and AWS.</p>
+        <div align="center">
+          <a href="https://apps.apple.com/mx/app/esperando-por-ti/id1500077249" target="_blank">
+            <img src="https://img.shields.io/badge/iOS-4630EB.svg?style=for-the-badge&logo=APPLE&labelColor=000&logoColor=fff" alt="iOS" />
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=mx.dacodes.esperandoporti&hl=es&gl=US" target="_blank">
+            <img src="https://img.shields.io/badge/Android-4630EB.svg?style=for-the-badge&logo=ANDROID&labelColor=000&logoColor=fff" alt="Android" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">EPT Vision</h3>
+      <div align="center">
+        <a href="https://vision.esperandoporti.com/" target="_blank">
+          <img src="assets/eptvision.png" width="80" alt="EPT Vision"/>
+        </a>
+        <p><strong>AI for Animal Welfare</strong></p>
+        <p>Computer vision solution for animal health assessment, detecting diseases, malnutrition, pregnancy, and matching lost pets. Built with PyTorch, FastAPI, and AWS.</p>
+        <div align="center">
+          <a href="https://vision.esperandoporti.com/presentation" target="_blank">
+            <img src="https://img.shields.io/badge/Presentation-00C58E?style=for-the-badge" alt="Presentation" />
+          </a>
+          <a href="https://esperandoporti.com/eptvision" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-FF4088?style=for-the-badge" alt="Demo" />
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Machine Learning Projects</h3>
+      <div align="center">
+        <a href="https://github.com/dassantoss/holbertonschool-machine_learning" target="_blank">
+          <img src="assets/machine-learning.png" width="80" alt="Machine Learning"/>
+        </a>
+        <p><strong>Comprehensive ML Portfolio</strong></p>
+        <p>Collection of machine learning projects covering neural networks, computer vision, NLP, reinforcement learning, and time series forecasting. Implementing state-of-the-art architectures.</p>
+        <div align="center">
+          <a href="https://github.com/dassantoss/holbertonschool-machine_learning" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
+      <h3 align="center">BeMex</h3>
+      <div align="center">
+        <a href="https://github.com/dassantoss/BeMex" target="_blank">
+          <img src="assets/bemex.png" width="80" alt="BeMex"/>
+        </a>
+        <p><strong>Naturalization Platform</strong></p>
+        <p>All-in-one platform for the naturalization process in Mexico, using Node.js, MySQL for backend and React.js for frontend, deployed on AWS.</p>
+        <div align="center">
+          <a href="https://github.com/dassantoss/BeMex" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 💻 Tech Stack
+
+<div align="center">
+  <h3>🔥 Core Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  </p>
+  
+  <h3>🧠 AI & Machine Learning</h3>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  </p>
+  
+  <h3>🖥️ Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  </p>
+  
+  <h3>🔧 Backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  </p>
+  
+  <h3>🗃️ Database & Storage</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </p>
+  
+  <h3>☁️ DevOps & Cloud</h3>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+  
+  <h3>🔌 Integration & APIs</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+    <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox" />
+    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  </p>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dassantoss&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dassantoss&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassantoss&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dassantoss&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ## 💼 Experience
 
-| Position                    | Company               | Field                   | Work Period        |
-|-----------------------------|-----------------------|-------------------------|--------------------|
-| **Lead Fullstack Developer**| **RN Technologies LLC**| **Medical Services**   | **2021-present**   |
-| Freelance Full Stack Developer | Self-employed       | Various Projects        | 2012-2021          |
-| Senior Full Stack Developer | ID Technology SAS     | Technology Solutions    | 2010-2012          |
-| Senior Full Stack Developer | WINI Software SAS     | Technology Solutions    | 2008-2009          |
-| Junior Software Developer   | ID Technology SAS     | Technology Solutions    | 2004-2008          |
+<table>
+  <tr>
+    <th>Position</th>
+    <th>Company</th>
+    <th>Field</th>
+    <th>Period</th>
+  </tr>
+  <tr>
+    <td><strong>Co-founder & CTO</strong></td>
+    <td><strong>RN Technologies LLC</strong></td>
+    <td>Healthcare Technology</td>
+    <td>2021-present</td>
+  </tr>
+  <tr>
+    <td><strong>Founder & CEO</strong></td>
+    <td><strong>Esperando por Ti</strong></td>
+    <td>Environmental & Animal Welfare</td>
+    <td>2016-present</td>
+  </tr>
+  <tr>
+    <td>Freelance Full Stack Developer</td>
+    <td>devArea</td>
+    <td>Various Industries</td>
+    <td>2012-present</td>
+  </tr>
+  <tr>
+    <td>Senior Full Stack Developer</td>
+    <td>ID Technology SAS</td>
+    <td>Technology Solutions</td>
+    <td>2010-2012</td>
+  </tr>
+  <tr>
+    <td>Senior Full Stack Developer</td>
+    <td>WIN Software SAS</td>
+    <td>Healthcare Technology</td>
+    <td>2008-2010</td>
+  </tr>
+</table>
 
 ## 🎓 Education
 
-- Software Engineering with a specialization in Machine Learning @ Universidad Anahuac del Mayab
-- Machine Learning @ Holberton School
-- Foundations of Computer Science @ Holberton School
-- Technical in Software Development @ CESDE
-- Systems Engineering @ Universidad de Medellín
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2023--2025-Universidad_Anáhuac_Mayab-1A237E?style=for-the-badge" alt="Universidad Anáhuac Mayab"></td>
+    <td>Software Engineering with a specialization in Machine Learning</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2023--2025-Holberton_School-E53935?style=for-the-badge" alt="Holberton School"></td>
+    <td>Diploma in Machine Learning</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2007-Microsoft-00A4EF?style=for-the-badge" alt="Microsoft"></td>
+    <td>Microsoft Certified Professional (MCP) - ASP.NET, C#</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2004-CESDE-FFC107?style=for-the-badge" alt="CESDE"></td>
+    <td>Software Development Technician</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2002-Universidad_de_Medellín-4CAF50?style=for-the-badge" alt="Universidad de Medellín"></td>
+    <td>Systems Engineering (Partial Studies)</td>
+  </tr>
+</table>
 
-## 📞 7 Ways to contact me
+## 🌱 🐾 ♻️ Contribute to Our Cause
 
-<p align="left">
-  <a href="mailto:santiago.echeverri@devarea.mx" rel="me"><img src="assets/mail.png" alt="Mail" width="50"></a>
-  <a href="https://t.me/+529999492450" rel="me"><img src="assets/telegram.png" alt="Telegram" width="50"></a>
-  <a href="https://wa.me/529999492450?text=Hi" rel="me"><img src="assets/whatsapp.png" alt="WhatsApp" width="50"></a>
-  <a href="https://linkedin.com/in/santiagoecheverril" rel="me"><img src="assets/linkedin.png" alt="LinkedIn" width="50"></a>
-  <a href="https://x.com/da_ssantoss" rel="me"><img src="assets/twitter.png" alt="Twitter" width="50"></a>
-  <a href="https://www.facebook.com/da.ssantoss/" rel="me"><img src="assets/facebook.png" alt="Facebook" width="50"></a>
-  <a href="https://www.instagram.com/santiagoecheverril/" rel="me"><img src="assets/instagram.png" alt="Instagram" width="50"></a>
-</p>
-
-## 🐾 🌱 ♻️ Contribute to Our Cause
 <div align="center">
-  <a href="https://www.esperandoporti.com/" target="_blank">
+  <a href="https://www.esperandoporti.com/">
     <img src="assets/esperando-por-ti-logo.png" alt="Esperando por ti" width="300" style="margin-bottom: 10px;">
   </a>
 </div>
 
-Support the "Esperando por ti" App, a social network dedicated to promoting environmental protection and animal welfare. Our app has facilitated over 500 animal adoptions, helped find more than 100 lost animals, managed over 10,000 tree adoption requests, and has more than 20,000 views of recycling points.
+Support "Esperando por ti", a social network dedicated to environmental protection and animal welfare. Our platform has facilitated over 500 animal adoptions, helped find more than 100 lost animals, managed over 10,000 tree adoption requests, and has more than 20,000 views of recycling points.
+
+### Our Impact
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>🐶 500+</h3>
+      <p>Animal Adoptions</p>
+    </td>
+    <td align="center">
+      <h3>🔍 100+</h3>
+      <p>Lost Pets Found</p>
+    </td>
+    <td align="center">
+      <h3>🌳 10,000+</h3>
+      <p>Tree Adoptions</p>
+    </td>
+    <td align="center">
+      <h3>♻️ 20,000+</h3>
+      <p>Recycling Points Views</p>
+    </td>
+  </tr>
+</table>
 
 **Download the app:**
 - [iOS](https://apps.apple.com/mx/app/esperando-por-ti/id1500077249)
 - [Android](https://play.google.com/store/apps/details?id=mx.dacodes.esperandoporti&hl=es&gl=US)
 
-**Support us:**
+**Support EPT:**
 <div align="center" style="margin-top: 20px;">
-  <a href="https://ko-fi.com/santiagoecheverri" target="_blank" style="margin-right: 10px;">
-    <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi">
-  </a>
-  <a href="https://www.paypal.me/Santy.e@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="PayPal">
+  <a href="https://esperandoporti.com/donate" target="_blank">
+    <img src="https://img.shields.io/badge/Donate_to_EPT-FF5733?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate to EPT" />
   </a>
 </div>
 
-## 📄 License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<div align="center">
+  <h3>Thanks for visiting my profile! Let's connect and build something amazing together.</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-💙-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open%20Source-Advocate-brightgreen?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Tech%20for-Social%20Good-orange?style=for-the-badge">
+  </p>
+
+  <!-- Support My Work - Invítame a un café -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://ko-fi.com/santiagoecheverri" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010" alt="Ko-fi" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    </a>
+    <a href="https://paypal.me/dassantoss?country.x=MX&locale.x=es_XC" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/Support_via_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=101010" alt="PayPal" width="220" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    </a>
+  </div>
+</div>
+
+## 📞 7 Ways to Contact Me
+
+<p align="center">
+  <a href="mailto:santiago.echeverri@devarea.mx" rel="me"><img src="assets/mail.png" alt="Mail" width="50"></a>
+  <a href="https://t.me/+529999492450" rel="me"><img src="assets/telegram.png" alt="Telegram" width="50"></a>
+  <a href="https://wa.me/529999492450?text=Hi" rel="me"><img src="assets/whatsapp.png" alt="WhatsApp" width="50"></a>
+  <a href="https://linkedin.com/in/santiagoecheverril" rel="me"><img src="assets/linkedin.png" alt="LinkedIn" width="50"></a>
+  <a href="https://x.com/da_ssantoss" rel="me"><img src="assets/twitter.png" alt="Twitter" width="50"></a>
+  <a href="https://www.facebook.com/santiago.echeverril/" rel="me"><img src="assets/facebook.png" alt="Facebook" width="50"></a>
+  <a href="https://www.instagram.com/santiagoecheverril/" rel="me"><img src="assets/instagram.png" alt="Instagram" width="50"></a>
+</p>
