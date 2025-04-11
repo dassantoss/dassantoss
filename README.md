@@ -1,40 +1,62 @@
 <div align="center">
-  <img src="assets/banner2.gif" alt="Santiago Echeverri | Lead Full-Stack Engineer" style="width: 100%; border-radius: 10px;">
+  <a href="https://github.com/dassantoss">
+    <img src="assets/banner2.gif" alt="Santiago Echeverri | Tech PM & Full Stack Engineer" style="width: 100%; max-width: 1080px; border-radius: 10px;">
+  </a>
   
-  <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Santiago+Echeverri+Londo%C3%B1o+(He%2FHim);Full-Stack+Engineer+%7C+AI+%26+ML+%7C+Project+Management;20%2B+years+of+software+development+experience;Innovating+for+people%2C+animals%2C+and+nature" alt="Santiago Echeverri | Lead Full-Stack Engineer" /></a>
+  <h1 align="center" style="font-size: 2.5em; margin-top: 20px; margin-bottom: 0px;">
+    Santiago Echeverri
+  </h1>
+  <h2 align="center" style="color: #4CAF50; margin-top: 5px; margin-bottom: 20px; font-weight: 500;">
+    Tech PM | Full Stack Engineer
+  </h2>
+
+  <div align="center" style="margin: 15px 0;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&height=60&lines=Santiago+Echeverri+Londo%C3%B1o+(He%2FHim);Machine+Learning+Specialist+with+20%2B+years+experience;Building+purpose-driven+technology+with+real-world+impact" alt="Santiago Echeverri | Tech PM" />
+    </a>
   </div>
 
-  <div align="center">
-    <a href="https://linkedin.com/in/santiagoecheverril">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <div style="margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://linkedin.com/in/santiagoecheverril" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:santiago@devarea.mx">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:santiago@devarea.mx" target="_blank">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://wa.me/529999492450">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <a href="https://wa.me/529999492450" target="_blank">
+      <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="https://www.esperandoporti.com/">
+    <a href="https://www.esperandoporti.com/" target="_blank">
       <img src="https://img.shields.io/badge/EPT-00C7B7?style=for-the-badge&logoColor=white" alt="Esperando por Ti" />
     </a>
-    <a href="https://www.rn-rightnow.com/">
-      <img src="https://img.shields.io/badge/RN_RightNow-FF6B6B?style=for-the-badge&logoColor=white" alt="RN Right Now" />
+    <a href="https://www.rn-rightnow.com/" target="_blank">
+      <img src="https://img.shields.io/badge/RN_RIGHTNOW-FF6B6B?style=for-the-badge&logoColor=white" alt="RN Right Now" />
     </a>
-    <div align="center">
-      <a href="https://drive.google.com/file/d/1zbtItMZYQqWbbOVWigrTHB1jX_B7P3xT/view?usp=sharing" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-      </a>
-    </div>
   </div>
   
-  <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-    <h3>Visitor Count:</h3>
-    <img src="https://profile-counter.glitch.me/dassantoss/count.svg" alt="Visitor Count" style="width: 250px;" />
+  <div style="margin: 15px 0;">
+    <a href="https://drive.google.com/file/d/1zbtItMZYQqWbbOVWigrTHB1jX_B7P3xT/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    </a>
+  </div>
+
+  <h3 style="margin-top: 30px; margin-bottom: 10px;">Visitor Count:</h3>
+  
+  <!-- Visitor Counter with Green Numbers -->
+  <div style="background-color: #111; padding: 10px; display: inline-block; border-radius: 5px;">
+    <span style="font-size: 24px; font-family: monospace;">
+      <span style="color: #4CAF50;">0</span>
+      <span style="color: #4CAF50;">0</span>
+      <span style="color: #4CAF50;">0</span>
+      <span style="color: #4CAF50;">1</span>
+      <span style="color: #4CAF50;">1</span>
+      <span style="color: #4CAF50;">3</span>
+      <span style="color: #4CAF50;">7</span>
+    </span>
   </div>
   
   <!-- Snake Animation -->
-  <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <div style="margin-top: 30px; margin-bottom: 30px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dassantoss/dassantoss/output/github-contribution-grid-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dassantoss/dassantoss/output/github-contribution-grid-snake.svg" />
@@ -45,9 +67,11 @@
 
 ## 📋 About Me
 
-Software Engineer with **20+ years** of experience in Full Stack development and technical leadership. Specialized in building scalable, innovative solutions that make a positive impact. Passionate about leveraging technology to solve real-world problems for people, animals, and the environment.
+Tech Project Director and Full Stack Developer with over 20 years of experience building software that is useful, scalable, and purpose-driven. I lead projects in healthcare, fintech, sustainability, civic tech, and social platforms—always bridging technical vision with real-world impact.
 
-Currently leading development at **RN Technologies LLC** and driving innovation with AI-powered solutions like **EPT Vision** for animal welfare.
+Currently directing DevArea, a boutique tech lab where we develop agile, high-impact solutions for startups and businesses. I'm also the co-founder of RN RightNow (HealthTech) and the creator of "Esperando por ti," a social and environmental platform.
+
+My expertise ranges from designing backend architectures to leading distributed teams and applying machine learning to automate workflows. I combine modern technologies with clear, results-driven strategies to deliver technology that works: the kind that's on time, meaningful, and actually improves people's lives.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dassantoss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -55,6 +79,14 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
 
 
 ## 🚀 Services
+
+<!-- Stripe Climate Badge -->
+<div align="center" style="margin: 25px 0; background-color: #f8f9fa; padding: 10px; border-radius: 10px; display: inline-block;">
+  <a href="https://climate.stripe.com/4vJ1xV" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+    <img src="assets/stripe-climate-badge.svg" alt="Stripe Climate" width="40" height="40" style="margin-right: 12px;">
+    <span style="color: #4CAF50; font-size: 15px; font-weight: 500;">Every project with DevArea helps the planet too — we donate 1% to carbon removal initiatives through</span>
+  </a>
+</div>
 
 <table>
   <tr>
@@ -127,8 +159,8 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
         <a href="https://www.rn-rightnow.com/" target="_blank">
           <img src="assets/rn-right-now.png" width="80" alt="RN Right Now"/>
         </a>
-        <p><strong>Medical Services Platform</strong></p>
-        <p>Mobile app connecting patients with healthcare providers. Built with Swift (iOS), Kotlin (Android), Laravel, MySQL, and AWS.</p>
+        <p><strong>HealthTech Platform</strong></p>
+        <p>An innovative healthcare platform connecting professionals with patients. As CTO, I designed the backend architecture with Laravel, led Stripe and Mapbox integrations, and implemented Scrum methodologies for our agile teams.</p>
         <div align="center">
           <a href="https://apps.apple.com/mx/app/rn-right-now/id6504877083" target="_blank">
             <img src="https://img.shields.io/badge/iOS-4630EB.svg?style=for-the-badge&logo=APPLE&labelColor=000&logoColor=fff" alt="iOS" />
@@ -146,7 +178,7 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
           <img src="assets/esperando-por-ti.png" width="80" alt="Esperando por Ti"/>
         </a>
         <p><strong>Environmental & Animal Welfare Platform</strong></p>
-        <p>Social network promoting environmental protection and animal welfare. Built with PHP (Laravel), Swift, Kotlin, and AWS.</p>
+        <p>As Founder and Product Owner, I defined the technological vision for this social and environmental platform, designed native mobile architecture, and integrated key technologies like Firebase. Enabled 500+ animal adoptions and numerous environmental initiatives.</p>
         <div align="center">
           <a href="https://apps.apple.com/mx/app/esperando-por-ti/id1500077249" target="_blank">
             <img src="https://img.shields.io/badge/iOS-4630EB.svg?style=for-the-badge&logo=APPLE&labelColor=000&logoColor=fff" alt="iOS" />
@@ -166,7 +198,7 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
           <img src="assets/eptvision.png" width="80" alt="EPT Vision"/>
         </a>
         <p><strong>AI for Animal Welfare</strong></p>
-        <p>Computer vision solution for animal health assessment, detecting diseases, malnutrition, pregnancy, and matching lost pets. Built with PyTorch, FastAPI, and AWS.</p>
+        <p>Directed the development of this ML-powered solution that uses computer vision to assess animal health, detect diseases, and match lost pets. Achieved 93.94% accuracy in animal classification and 91.02% in health issue detection using PyTorch and FastAPI.</p>
         <div align="center">
           <a href="https://vision.esperandoporti.com/presentation" target="_blank">
             <img src="https://img.shields.io/badge/Presentation-00C58E?style=for-the-badge" alt="Presentation" />
@@ -178,32 +210,15 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Machine Learning Projects</h3>
+      <h3 align="center">DevArea Projects</h3>
       <div align="center">
-        <a href="https://github.com/dassantoss/holbertonschool-machine_learning" target="_blank">
-          <img src="assets/machine-learning.png" width="80" alt="Machine Learning"/>
+        <a href="https://devarea.mx" target="_blank">
+          <img src="assets/web.png" width="80" alt="DevArea"/>
         </a>
-        <p><strong>Comprehensive ML Portfolio</strong></p>
-        <p>Collection of machine learning projects covering neural networks, computer vision, NLP, reinforcement learning, and time series forecasting. Implementing state-of-the-art architectures.</p>
+        <p><strong>Boutique Tech Development</strong></p>
+        <p>As Project Director at DevArea, I lead full stack development teams creating scalable solutions for international clients. We integrate modern technologies like React, Node.js, Laravel, and AWS with agile methodologies to deliver fast, high-quality results.</p>
         <div align="center">
-          <a href="https://github.com/dassantoss/holbertonschool-machine_learning" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h3 align="center">BeMex</h3>
-      <div align="center">
-        <a href="https://github.com/dassantoss/BeMex" target="_blank">
-          <img src="assets/bemex.png" width="80" alt="BeMex"/>
-        </a>
-        <p><strong>Naturalization Platform</strong></p>
-        <p>All-in-one platform for the naturalization process in Mexico, using Node.js, MySQL for backend and React.js for frontend, deployed on AWS.</p>
-        <div align="center">
-          <a href="https://github.com/dassantoss/BeMex" target="_blank">
+          <a href="https://github.com/devarea-mx" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
         </div>
@@ -215,7 +230,16 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
 ## 💻 Tech Stack
 
 <div align="center">
-  <h3>🔥 Core Technologies</h3>
+  <h3>🚀 Core Skills</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Project_Management-4A154B?style=for-the-badge&logo=asana&logoColor=white" alt="Project Management" />
+    <img src="https://img.shields.io/badge/Full_Stack_Development-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Full Stack" />
+    <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="MLOps" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </p>
+  
+  <h3>🔥 Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -224,7 +248,7 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </p>
   
   <h3>🧠 AI & Machine Learning</h3>
@@ -237,7 +261,6 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   </p>
   
   <h3>🖥️ Frontend</h3>
@@ -249,21 +272,16 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   </p>
   
   <h3>🔧 Backend</h3>
   <p>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   </p>
   
@@ -285,12 +303,13 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
   
-  <h3>🔌 Integration & APIs</h3>
+  <h3>📊 Project Management & Agile</h3>
   <p>
-    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-    <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox" />
-    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+    <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+    <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </p>
 </div>
 
@@ -321,22 +340,22 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
     <th>Period</th>
   </tr>
   <tr>
+    <td><strong>Project Director & Lead Full Stack Developer</strong></td>
+    <td><strong>DevArea</strong></td>
+    <td>Technology Solutions</td>
+    <td>2012-present</td>
+  </tr>
+  <tr>
     <td><strong>Co-founder & CTO</strong></td>
-    <td><strong>RN Technologies LLC</strong></td>
+    <td><strong>RN Right Now</strong></td>
     <td>Healthcare Technology</td>
     <td>2021-present</td>
   </tr>
   <tr>
-    <td><strong>Founder & CEO</strong></td>
+    <td><strong>Founder & Lead Full Stack Developer</strong></td>
     <td><strong>Esperando por Ti</strong></td>
     <td>Environmental & Animal Welfare</td>
     <td>2016-present</td>
-  </tr>
-  <tr>
-    <td>Freelance Full Stack Developer</td>
-    <td>devArea</td>
-    <td>Various Industries</td>
-    <td>2012-present</td>
   </tr>
   <tr>
     <td>Senior Full Stack Developer</td>
@@ -371,6 +390,13 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
       </div>
     </td>
     <td align="center" width="19%" style="padding:5px">
+      <div style="background: linear-gradient(135deg, #00897B 0%, #00695C 100%); border-radius: 8px; padding: 10px; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+        <img src="assets/sustainability.png" width="40" height="40" style="margin-bottom: 8px;">
+        <h3 style="margin: 0; font-size: 16px; color: white; font-weight: 600;">Sustainability</h3>
+        <p style="margin: 3px 0 0; font-size: 11px; color: rgba(255,255,255,0.9); text-align: center;">Environmental & animal welfare</p>
+      </div>
+    </td>
+    <td align="center" width="19%" style="padding:5px">
       <div style="background: linear-gradient(135deg, #7B1FA2 0%, #6A1B9A 100%); border-radius: 8px; padding: 10px; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
         <img src="assets/govtech.png" width="40" height="40" style="margin-bottom: 8px;">
         <h3 style="margin: 0; font-size: 16px; color: white; font-weight: 600;">GovTech</h3>
@@ -384,13 +410,6 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
         <p style="margin: 3px 0 0; font-size: 11px; color: rgba(255,255,255,0.9); text-align: center;">Enterprise & B2B cloud solutions</p>
       </div>
     </td>
-    <td align="center" width="19%" style="padding:5px">
-      <div style="background: linear-gradient(135deg, #00897B 0%, #00695C 100%); border-radius: 8px; padding: 10px; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-        <img src="assets/sustainability.png" width="40" height="40" style="margin-bottom: 8px;">
-        <h3 style="margin: 0; font-size: 16px; color: white; font-weight: 600;">Sustainability</h3>
-        <p style="margin: 3px 0 0; font-size: 11px; color: rgba(255,255,255,0.9); text-align: center;">Environmental & animal welfare</p>
-      </div>
-    </td>
   </tr>
 </table>
 
@@ -399,7 +418,7 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/2023--2025-Universidad_Anáhuac_Mayab-1A237E?style=for-the-badge" alt="Universidad Anáhuac Mayab"></td>
-    <td>Software Engineering with a specialization in Machine Learning</td>
+    <td>Machine Learning Specialization, Software Engineering</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/2023--2025-Holberton_School-E53935?style=for-the-badge" alt="Holberton School"></td>
@@ -413,9 +432,18 @@ Currently leading development at **RN Technologies LLC** and driving innovation 
     <td><img src="https://img.shields.io/badge/2004-CESDE-FFC107?style=for-the-badge" alt="CESDE"></td>
     <td>Software Development Technician</td>
   </tr>
+</table>
+
+## 💼 Certifications
+
+<table>
   <tr>
-    <td><img src="https://img.shields.io/badge/2002-Universidad_de_Medellín-4CAF50?style=for-the-badge" alt="Universidad de Medellín"></td>
-    <td>Systems Engineering (Partial Studies)</td>
+    <td><img src="https://img.shields.io/badge/2025-Holberton_School-E53935?style=for-the-badge" alt="Holberton School"></td>
+    <td>Machine Learning Certification - <a href="https://diplomasmerida.anahuac.mx/42085d61-ff0b-4609-b81a-daaffd66de66#acc.8skJ4PnG" target="_blank">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2025-Universidad_Anáhuac_Mayab-1A237E?style=for-the-badge" alt="Universidad Anáhuac Mayab"></td>
+    <td>Machine Learning Specialization - <a href="https://diplomasmerida.anahuac.mx/b516cce2-fa92-4b03-bb7e-e4d888ac7977#acc.bVcS3kae" target="_blank">View Certificate</a></td>
   </tr>
 </table>
 
@@ -474,7 +502,7 @@ Support "Esperando por ti", a social network dedicated to environmental protecti
     <img src="https://img.shields.io/badge/Tech%20for-Social%20Good-orange?style=for-the-badge">
   </p>
 
-  <!-- Support My Work - Invítame a un café -->
+  <!-- Support My Work -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://ko-fi.com/santiagoecheverri" target="_blank" style="transition: transform 0.3s ease;">
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010" alt="Ko-fi" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
@@ -485,11 +513,15 @@ Support "Esperando por ti", a social network dedicated to environmental protecti
   </div>
 </div>
 
-## 📞 4 Ways to Contact Me
+## 📞 Contact Me
 
 <p align="center">
-  <a href="mailto:santiago.echeverri@devarea.mx" rel="me"><img src="assets/mail.png" alt="Mail" width="50"></a>
-  <a href="https://t.me/+529999492450" rel="me"><img src="assets/telegram.png" alt="Telegram" width="50"></a>
+  <a href="mailto:santiago@devarea.mx" rel="me"><img src="assets/mail.png" alt="Mail" width="50"></a>
   <a href="https://wa.me/529999492450?text=Hi" rel="me"><img src="assets/whatsapp.png" alt="WhatsApp" width="50"></a>
   <a href="https://linkedin.com/in/santiagoecheverril" rel="me"><img src="assets/linkedin.png" alt="LinkedIn" width="50"></a>
+  <a href="https://www.devarea.mx" rel="me"><img src="assets/web.png" alt="Website" width="50"></a>
 </p>
+
+<div align="center">
+  <p>Currently based in Yucatán, Mexico | Open to remote opportunities worldwide</p>
+</div>

@@ -1,14 +1,14 @@
 name: Generate Snake Animation
 
 on:
-  # Ejecutar automáticamente cada 24 horas
+  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *"
   
-  # Permite ejecutar el trabajo manualmente en cualquier momento
+  # Allow manual workflow execution
   workflow_dispatch:
   
-  # Ejecutar en cada push a la rama main/master
+  # Run on each push to the main/master branch
   push:
     branches:
     - main
@@ -22,7 +22,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Genera una animación de serpiente desde el gráfico de contribuciones del usuario github
+      # Generate a snake animation from the user's github contribution graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,8 +31,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # Envía el contenido de la carpeta dist a la rama output
-      # El contenido estará disponible en https://raw.githubusercontent.com/<github_user>/<repository>/output/<file>
+      # Push the content of the dist folder to the output branch
+      # Content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/output/<file>
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
