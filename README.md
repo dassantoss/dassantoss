@@ -42,17 +42,9 @@
 
   <h3 style="margin-top: 30px; margin-bottom: 10px;">Visitor Count:</h3>
   
-  <!-- Visitor Counter with Green Numbers -->
-  <div style="background-color: #111; padding: 10px; display: inline-block; border-radius: 5px;">
-    <span style="font-size: 24px; font-family: monospace;">
-      <span style="color: #4CAF50;">0</span>
-      <span style="color: #4CAF50;">0</span>
-      <span style="color: #4CAF50;">0</span>
-      <span style="color: #4CAF50;">1</span>
-      <span style="color: #4CAF50;">1</span>
-      <span style="color: #4CAF50;">3</span>
-      <span style="color: #4CAF50;">7</span>
-    </span>
+  <!-- Visitor Counter -->
+  <div>
+    <img src="https://profile-counter.glitch.me/dassantoss/count.svg" alt="Visitor Count" style="width: 250px;" />
   </div>
   
   <!-- Snake Animation -->
@@ -81,10 +73,10 @@ My expertise ranges from designing backend architectures to leading distributed 
 ## 🚀 Services
 
 <!-- Stripe Climate Badge -->
-<div align="center" style="margin: 25px 0; background-color: #f8f9fa; padding: 10px; border-radius: 10px; display: inline-block;">
-  <a href="https://climate.stripe.com/4vJ1xV" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="assets/stripe-climate-badge.svg" alt="Stripe Climate" width="40" height="40" style="margin-right: 12px;">
-    <span style="color: #4CAF50; font-size: 15px; font-weight: 500;">Every project with DevArea helps the planet too — we donate 1% to carbon removal initiatives through</span>
+<div align="center" style="margin: 25px 0;">
+  <a href="https://climate.stripe.com/4vJ1xV" target="_blank" style="text-decoration: none;">
+    <img src="assets/stripe-climate-badge.svg" alt="Stripe Climate" width="25" height="25" style="vertical-align: middle; margin-right: 8px;">
+    <span style="color: #4CAF50; font-size: 16px; font-weight: 500;">Every project with DevArea helps the planet too — we donate 1% to carbon removal initiatives through</span>
   </a>
 </div>
 
