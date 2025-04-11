@@ -73,10 +73,10 @@ My expertise ranges from designing backend architectures to leading distributed 
 ## 🚀 Services
 
 <!-- Stripe Climate Badge -->
-<div align="center" style="margin: 25px 0;">
-  <a href="https://climate.stripe.com/4vJ1xV" target="_blank" style="text-decoration: none;">
-    <img src="assets/stripe-climate-badge.svg" alt="Stripe Climate" width="25" height="25" style="vertical-align: middle; margin-right: 8px;">
-    <span style="color: #4CAF50; font-size: 16px; font-weight: 500;">Every project with DevArea helps the planet too — we donate 1% to carbon removal initiatives through</span>
+<div>
+  <a href="https://climate.stripe.com/4vJ1xV" target="_blank" style="text-decoration: none; color: #4CAF50;">
+    <img src="assets/stripe-climate-badge.svg" alt="Stripe Climate" width="20" height="20" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 16px;">Every project with DevArea helps the planet too — we donate 1% to carbon removal initiatives through</span>
   </a>
 </div>
 
