@@ -20,7 +20,7 @@
     <a href="https://www.devarea.mx" target="_blank">
       <img src="https://img.shields.io/badge/DevArea-9ACD32?style=for-the-badge&logoColor=white" alt="DevArea">
     </a>
-    <a href="https://drive.google.com/file/d/12lALUMEYUSKtWZh93iR3RaiOnqUj-pcg/view?usp=sharing" target="_blank">
+    <a href="https://docs.google.com/document/d/1ozydf7EITmMD5mP_I8MwXZi0vaE3MeFu3-yO409d3uI/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
     </a>
   </p>
