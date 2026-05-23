@@ -76,6 +76,9 @@ I work across backend architecture, frontend products, system design, distribute
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">AI Coding Evaluation</h3>
+      <div align="center">
+        <img src="assets/web.png" width="80" alt="DevArea">
+      </div>
       <p><strong>AI-assisted software engineering and LLM training.</strong></p>
       <p>Evaluate AI-generated code and model outputs across coding tasks, pull request tasks, infrastructure-as-code scenarios, mini-repository evaluations, reasoning traces, and test/evaluation harnesses.</p>
       <p><strong>Highlights:</strong> LLM training, AI code evaluation, Docker validation, CI/CD workflows, tests, repository analysis, software quality assessment.</p>
