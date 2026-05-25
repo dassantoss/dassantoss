@@ -77,7 +77,9 @@ I work across backend architecture, frontend products, system design, distribute
     <td width="50%" valign="top">
       <h3 align="center">AI Coding Evaluation</h3>
       <div align="center">
-        <img src="assets/web.png" width="80" alt="DevArea">
+        <a href="https://www.devarea.mx" target="_blank">
+          <img src="assets/web.png" width="80" alt="DevArea">
+        </a>
       </div>
       <p><strong>AI-assisted software engineering and LLM training.</strong></p>
       <p>Evaluate AI-generated code and model outputs across coding tasks, pull request tasks, infrastructure-as-code scenarios, mini-repository evaluations, reasoning traces, and test/evaluation harnesses.</p>
@@ -108,7 +110,7 @@ I work across backend architecture, frontend products, system design, distribute
     <td width="50%" valign="top">
       <h3 align="center">Esperando por ti</h3>
       <div align="center">
-        <a href="https://www.esperandoporti.com/" target="_blank">
+        <a href="https://esperandoporti.com/" target="_blank">
           <img src="assets/esperando-por-ti.png" width="80" alt="Esperando por ti">
         </a>
       </div>
