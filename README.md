@@ -88,7 +88,9 @@ I work across backend architecture, frontend products, system design, distribute
     <td width="50%" valign="top">
       <h3 align="center">KanAI Vision</h3>
       <div align="center">
-        <img src="assets/logo-kanai.png" width="80" alt="KanAI Vision">
+        <a href="https://kanaivision.com/en/landing" target="_blank">
+          <img src="assets/logo-kanai.png" width="80" alt="KanAI Vision">
+        </a>
       </div>
       <p><strong>AI/ML and computer vision for farming environments.</strong></p>
       <p>Computer vision initiative for biosecurity, traceability, and animal monitoring, integrating edge devices, biometric hardware, cloud architecture, and low-connectivity workflows.</p>
